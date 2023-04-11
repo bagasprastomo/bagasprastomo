@@ -6,10 +6,10 @@
     I Am an Undergraduate CompSci Student at Universitas Indraprasta PGRI
 </h3>
 
+<br>
+
 <p>
-    <br>
-        Currently learning C and working on a new project
-    <br>
+    Currently learning C and Python
 </p>
 
 <h4 align="left">
@@ -18,7 +18,7 @@
 
 <p align="left">
     <a href="https://www.linkedin.com/in/bagasprastomo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ashandi-leonadi" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/basgabas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ashandi.leon" height="30" width="40" /></a>
+    <a href="https://www.instagram.com/basgabas_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="basgabas_" height="30" width="40" /></a>
 </p>
 
 <h4 align="left">
