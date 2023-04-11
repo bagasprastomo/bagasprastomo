@@ -8,7 +8,7 @@
 
 <br>
 
-- 🔭 Currently working on **Face Recognition App using Python**
+- 🔭 Currently working on **Face Recognition App** using **Python**
 
 - 🌱 Currently learning **C** and **Python**
 
