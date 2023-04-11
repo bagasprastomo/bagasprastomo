@@ -8,10 +8,11 @@
 
 <br>
 
-<p>
-    Currently learning C and Python
-</p>
+- 🔭 Currently working on **Face Recognition App using Python**
 
+- 🌱 Currently learning **C** and **Python**
+
+<br>
 <h4 align="left">
     My Socials
 </h4>
