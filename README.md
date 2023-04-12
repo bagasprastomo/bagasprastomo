@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-    I Am an Undergraduate CompSci Student at Universitas Indraprasta PGRI
+    I Am an Undergraduate Comp Sci Student at Indraprasta PGRI University
 </h3>
 
 <br>
