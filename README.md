@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on **Face Recognition App** using **Python**
 
-- 🌱 Currently learning **C** and **Python**
+- 🌱 Currently learning **C** and **JavaScript**
 
 <br>
 <h4 align="left">
