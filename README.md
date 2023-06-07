@@ -48,5 +48,3 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 <br>
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bagasprastomo&theme=algolia&show_icons=true)](https://github.com/bagasprastomo)
