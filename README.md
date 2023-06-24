@@ -8,7 +8,7 @@
 
 <br>
 
-- 🔭 Currently working on **Face Recognition App** using **Python**
+- 🔭 Currently working on **Simple UI/UX Mobile App Design** using **Figma**
 
 - 🌱 Currently learning **C** and **JavaScript**
 
