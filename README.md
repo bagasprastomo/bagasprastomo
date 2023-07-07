@@ -8,7 +8,7 @@
 
 <br>
 
-- 🔭 Currently working on **Simple UI/UX Mobile App Design** using **Figma**
+- 🔭 Currently working on my first app using **Java**
 
 - 🌱 Currently learning **Java**
 
