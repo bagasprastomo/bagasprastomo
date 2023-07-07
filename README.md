@@ -10,7 +10,7 @@
 
 - 🔭 Currently working on **Simple UI/UX Mobile App Design** using **Figma**
 
-- 🌱 Currently learning **C** and **JavaScript**
+- 🌱 Currently learning **Java**
 
 <br>
 <h4 align="left">
